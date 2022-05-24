@@ -1,7 +1,7 @@
 # mobile_sdk_demo project
 This Android demo project covers all usages of the library [solutionarchitectstech:android_tracker_sdk_release](https://github.com/solutionarchitectstech/android_tracker_sdk_release)
 
-![banner-view](/readme_content/fullscreen.jpeg)
+![banner-view](/readme_content/fullscreen.png)
 
 ## 1. Add the dependency to your project
 Before usage of the SDK Developer has to add the following dependency to app-module gradle file (the dependency block):
